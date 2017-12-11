@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 7ab6686537fa9fe46b8cdb01f9b1b353
+timeCreated: 1512236605
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group1
+    100004: Group2
+    100006: Group3
+    100008: Group4
+    100010: Group5
+    100012: Group6
+    100014: Group7
+    100016: Group8
+    100018: Mesh1
+    100020: Mesh2
+    100022: Mesh3
+    100024: Mesh4
+    100026: Mesh5
+    100028: Mesh6
+    100030: Mesh7
+    400000: //RootNode
+    400002: Group1
+    400004: Group2
+    400006: Group3
+    400008: Group4
+    400010: Group5
+    400012: Group6
+    400014: Group7
+    400016: Group8
+    400018: Mesh1
+    400020: Mesh2
+    400022: Mesh3
+    400024: Mesh4
+    400026: Mesh5
+    400028: Mesh6
+    400030: Mesh7
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    2300010: Mesh6
+    2300012: Mesh7
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    3300010: Mesh6
+    3300012: Mesh7
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backlight
+    second: {fileID: 2100000, guid: a532dcdf87ab5eb4084bca3d4076cf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit1
+    second: {fileID: 2100000, guid: 8ed522fd4cf487149b39230d41edbcf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit10
+    second: {fileID: 2100000, guid: 19643c6d6dcc90b448811ef3347297a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit11
+    second: {fileID: 2100000, guid: 2c60013eed5cea144a8eb5ff4f9615fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit12
+    second: {fileID: 2100000, guid: b2ba39e4046d0234aa5d226e66aa9f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit13
+    second: {fileID: 2100000, guid: 2bbd8699683a3984e8bba0e7dbccba44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit14
+    second: {fileID: 2100000, guid: c4a5c207bf0f6094991a85460efe5a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit15
+    second: {fileID: 2100000, guid: 36ba4211a6eaa5c4b92ca62beab92dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit16
+    second: {fileID: 2100000, guid: b26a18c9f09709944a539aa058e2256a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit2
+    second: {fileID: 2100000, guid: bf0708e2781f261429d80d7c5d334736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit3
+    second: {fileID: 2100000, guid: c88157385467fee449b9f02597b18d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit4
+    second: {fileID: 2100000, guid: dc3f6e574da543f45966d0f97e985ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit5
+    second: {fileID: 2100000, guid: ac3812ac1b13f87469619f42c7981e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit6
+    second: {fileID: 2100000, guid: c9f6a3b67db2d6949a601fd82cc321ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit7
+    second: {fileID: 2100000, guid: 5c7d5c0bd3e82494ab51002cbc4fb66f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: 75ae16624115bf141a4af873f0799b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: dcb00970aad73154188edd5f248dc0a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofLights
+    second: {fileID: 2100000, guid: fe9fe535bd9b7d04f9a0207de257e5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Blue
+    second: {fileID: 2100000, guid: 72fec6ae36a839b46ba832232ada86ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
