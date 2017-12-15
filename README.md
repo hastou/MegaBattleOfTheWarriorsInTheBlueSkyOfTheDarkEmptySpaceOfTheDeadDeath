@@ -38,5 +38,6 @@ Le dossier SteamVR contient les scripts fournis par Steam pour utiliser les fonc
 ## Crédits
 - Maxime Seurre
 - Quentin Solard
+- Ali Moalla
 
 Etudiants de l'IMT Lille Douai
